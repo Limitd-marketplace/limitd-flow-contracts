@@ -1,6 +1,8 @@
 # Limitd NFT Marketplace - Flow Contracts
 
 This code repository has been created with the objective of exposing the smart contract functionalities included in the NFT Marketplace for Limitd.
+
+## About the source code
 The code includes a set of folders that contain:
 1. Contracts in Cadence based on Flow standards (KittyItems)
 2. User and admin transactions
